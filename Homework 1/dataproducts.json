@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop Dell XPS 13",
+      "price": 25000000,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Samsung Galaxy S21",
+      "price": 18000000,
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Tai nghe Sony WH-1000XM4",
+      "price": 7000000,
+      "category": "Accessories"
+    }
+  ]
+  
